@@ -44,7 +44,7 @@ _%>
     <%_ %><%= rule %>
 <%_ } -%>
 
-import SwiftyMocky
+import CT_SwiftyMocky
 import XCTest
 <%# ================================================== IMPORTS -%><%_ -%>
     <%_ for projectImport in projectImports(argument) { -%>
